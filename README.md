@@ -4,4 +4,4 @@ Code for paper [SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer
 ![](images/teaser.png)
 
 ## Updates
-_19 Mar 2023_: Code will be released soon.
+_24 Oct 2023_: Our paper is accepted by WACV 2024! Code will be released very soon.
