@@ -25,7 +25,7 @@ $ pip install torch-dct
 ### Style Transfer with SpectralCLIP
 
 ```
-python train_SpectralCLIP.py --band 2 --text "Giorgio Morandi"
+python train_SpectralCLIP.py --band c2 --text "Giorgio Morandi"
 ```
 To change the filtering band combination, modify the ```--band``` argument.
 
